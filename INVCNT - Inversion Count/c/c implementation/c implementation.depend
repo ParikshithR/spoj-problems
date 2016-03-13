@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1453128149 source:c:\users\parikshith\desktop\spoj&codechef\spoj problems\invcnt - inversion count\c\c implementation\main.c
+	<stdio.h>
+	<stdlib.h>
+

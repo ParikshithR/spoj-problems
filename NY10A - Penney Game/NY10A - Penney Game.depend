@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1437059513 source:c:\users\parikshith\desktop\spoj problems\lastdig2 - the last digit re-visited\ny10a - penney game\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1452863019 source:c:\users\parikshith\desktop\spoj&codechef\spoj problems\ny10a - penney game\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

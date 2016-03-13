@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1452919488 source:c:\users\parikshith\desktop\spoj&codechef\spoj problems\absys - anti-blot system\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

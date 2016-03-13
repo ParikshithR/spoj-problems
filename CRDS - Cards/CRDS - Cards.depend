@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1452930383 source:c:\users\parikshith\desktop\spoj&codechef\spoj problems\crds - cards\main.c
+	<stdio.h>
+	<stdlib.h>
+

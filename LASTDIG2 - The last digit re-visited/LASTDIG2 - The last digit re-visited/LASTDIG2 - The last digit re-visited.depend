@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1453298558 source:c:\users\parikshith\desktop\spoj&codechef\spoj problems\lastdig2 - the last digit re-visited\lastdig2 - the last digit re-visited\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

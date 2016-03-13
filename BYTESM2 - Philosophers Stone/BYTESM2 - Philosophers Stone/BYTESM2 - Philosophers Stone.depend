@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1437287435 source:c:\users\parikshith\desktop\spoj problems\bytesm2 - philosophers stone\bytesm2 - philosophers stone\main.c
+	<stdio.h>
+	<stdlib.h>
+

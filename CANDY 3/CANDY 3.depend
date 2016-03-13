@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1421671063 source:c:\users\parikshith\desktop\spoj problems\candy 3\main.c
+	<stdio.h>
+	<stdlib.h>
+

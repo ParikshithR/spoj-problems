@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1426916989 source:c:\users\parikshith\desktop\spoj problems\maxln - the max lines\maximaminima\main.c
+	<stdio.h>
+	<stdlib.h>
+	<Math.h>
+
